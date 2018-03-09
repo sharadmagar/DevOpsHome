@@ -1,2 +1,0 @@
-# DevOpsHome
-DevOps Learning Repo
